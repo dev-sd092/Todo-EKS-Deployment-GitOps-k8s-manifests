@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: todo-frontend
-          image: sanketdesai09/todo-react-app:6538f9a141f7725696c1259c7cbb0b671563d6aa
+          image: sanketdesai09/todo-react-app:0563d0c8847ea41a1201f73fa1a2c0fadc61c019
           ports:
             - containerPort: 80
           resources:
